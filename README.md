@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mael Grandguillot, I'm 18 and trying to learn everything I can about this world
+- 👀 I’m interested in everything related to programming
+- 🌱 I’m currently studying cross-platform application development
+- 📫 You can reach me with the gmail: mael.grandguillot@gmail.com
